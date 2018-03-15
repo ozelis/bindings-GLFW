@@ -230,4 +230,4 @@ test-suite main
 
 source-repository head
   type:     git
-  location: git://github.com/bsl/bindings-GLFW.git
+  location: git://github.com/ozelis/bindings-GLFW.git
